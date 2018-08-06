@@ -1,1 +1,1 @@
-# LiriBotHW
+# liri-node-app
